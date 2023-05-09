@@ -1,0 +1,50 @@
+
+{
+java:S1488z"^Immediately return this expression instead of assigning it to the temporary variable "vmData".(‚Œÿì8‰¨ŠØş0
+y
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "loc".(µÛÅ¸8Š¨ŠØş0
+
+java:S1488Š"\Immediately return this expression instead of assigning it to the temporary variable "time".(œä¼Éùÿÿÿÿ8Š¨ŠØş0
+ƒ
+java:S1488‘"`Immediately return this expression instead of assigning it to the temporary variable "instance".(ŒåÍüÿÿÿÿ8Š¨ŠØş0
+~
+java:S1488™"[Immediately return this expression instead of assigning it to the temporary variable "ssd".(çâãüÿÿÿÿ8Š¨ŠØş0
+{
+java:S1488Ÿ"]Immediately return this expression instead of assigning it to the temporary variable "price".(³É™æ8‹¨ŠØş0
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8¥¨ŠØş0
+u	java:S116"YRename this field "instance_Field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö‰Ô8¥¨ŠØş0
+p	java:S116"TRename this field "new_Frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÿºÇ8¦¨ŠØş0
+u	java:S116"YRename this field "cookies_Ok_Btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ñ»Ô8¦¨ŠØş0
+q	java:S116)"VRename this field "Series_Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í—ÿF8¦¨ŠØş0
+{	java:S1162"_Rename this field "machine_Type_DropBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†ş8¦¨ŠØş0
+u	java:S116;"YRename this field "gpus_Check_Box" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çºÀÄ8¦¨ŠØş0
+x	java:S116="\Rename this field "Gpu_Type_Drop_Box" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³®ÿü8¦¨ŠØş0
+‚	java:S116C"aRename this field "number_Of_Gpus_DropBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’œãûÿÿÿÿ8¦¨ŠØş0
+u	java:S116E"YRename this field "number_Of_Gpus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”˜ÖÜ8¦¨ŠØş0
+u	java:S116G"TRename this field "gpus_Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î‹•ùÿÿÿÿ8¦¨ŠØş0
+x	java:S116T"\Rename this field "Local_Ssd_DropBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û“ÑÖ8¦¨ŠØş0
+{	java:S116V"ZRename this field "Local_Ssd_Model" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ß’ııÿÿÿÿ8¦¨ŠØş0
+‰	java:S116^"hRename this field "Data_Center_Location_Drop_Box" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡™Õéıÿÿÿÿ8¦¨ŠØş0
+€	java:S116`"_Rename this field "Data_Center_Location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íö±ÿÿÿÿÿ8¦¨ŠØş0
+‚	java:S116g"aRename this field "Commited_Uage_Drop_Box" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğà¹ûÿÿÿÿ8¦¨ŠØş0
+ƒ	java:S116i"bRename this field "Commited_Usage_One_Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚İ³şÿÿÿÿ8¨¨ŠØş0
+‚	java:S116p"aRename this field "Add_To_Estimate_Button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹€åÔùÿÿÿÿ8¨¨ŠØş0
+t	java:S116v"XRename this field "Vm_Class_Data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍûµÅ8¨¨ŠØş0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øêó8®¨ŠØş0
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÔ¹¾ÿÿÿÿÿ8²¨ŠØş0
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î˜«ıÿÿÿÿ8µ¨ŠØş0
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é§ä¡8·¨ŠØş0
+o	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß™İÿÿÿÿÿ8¹¨ŠØş0
+j	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì÷®Ş8º¨ŠØş0
+j	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¤¨ñ8»¨ŠØş0
+j	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë±í8½¨ŠØş0
+j	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù·½¼8¿¨ŠØş0
+o	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨òßúÿÿÿÿ8Á¨ŠØş0
+o	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à÷úµÿÿÿÿÿ8Ã¨ŠØş0
+o	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä»†şÿÿÿÿ8Ä¨ŠØş0
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä şÿÿÿÿ8Æ¨ŠØş0
+k	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¸öñ8Æ¨ŠØş0
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½Ü8Ç¨ŠØş0
+p	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îøÀƒùÿÿÿÿ8È¨ŠØş0
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÏıŞúÿÿÿÿ8É¨ŠØş0
